@@ -32,13 +32,20 @@ My personal portfolio and home for experiments, projects, and things I'm learnin
 
 ## 🧰 My toolbox
 
-**Currently working with / exploring**
+**Languages**
 
-- HTML · CSS · JavaScript
-- Git · GitHub
-- UI ideas, prototyping, and visual design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript" alt="C, Python, Java, HTML, CSS, and JavaScript icons" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL badge" />
+</p>
 
-*I'll expand this list as I build more projects and gain experience.*
+**Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code icons" />
+</p>
+
+I use these tools across my coursework and personal projects, and I'm continuing to build my skills through hands-on practice.
 
 ## 🌙 Currently tinkering with
 
